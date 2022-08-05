@@ -10,3 +10,5 @@ GloVe method is built on an important idea, You can derive semantic relationship
 The co-occurrence matrix for the sentence “the cat sat on the mat” with a window size of 1. As you probably noticed it is a symmetric matrix. How do we get a metric that measures semantic similarity between words from this? For that, you will need three words at a time.
 
 Source Credits - https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010
+
+Dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
